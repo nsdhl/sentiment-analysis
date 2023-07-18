@@ -1,5 +1,4 @@
-import { Box, Typography, Stack } from '@mui/material'
-import React from 'react'
+import { Typography, Stack } from '@mui/material'
 import { useNavigate } from 'react-router-dom'
 
 const MovieList = ({ id, title, description, date_released, isReview }) => {

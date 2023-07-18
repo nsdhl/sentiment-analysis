@@ -1,6 +1,6 @@
 import { Box, Stack, TextField } from '@mui/material'
 import axios from 'axios';
-import React, { useEffect, useState } from 'react'
+import  { useEffect, useState } from 'react'
 import MovieList from '../components/MovieList';
 
 const Homepage = () => {
